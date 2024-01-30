@@ -1,0 +1,3 @@
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts: This part of the code indicates 
+that the ChatPromptTemplate class is being imported from the prompts module within the langchain_core library.
